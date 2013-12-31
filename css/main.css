@@ -50,6 +50,17 @@ a:hover {
 /*****************************************************************************/
 #logo {
   max-width: 128px;
+  -webkit-transition: all 1s ease-in-out;
+  -moz-transition: all 1s ease-in-out;
+  -o-transition: all 1s ease-in-out;
+  -ms-transition: all 1s ease-in-out;
+}
+
+#logo:hover {
+  -webkit-transform: rotate(360deg);
+  -moz-transform: rotate(360deg); 
+  -o-transform: rotate(360deg);
+  -ms-transform: rotate(360deg);
 }
 
 .posts a {
@@ -128,6 +139,11 @@ a:hover {
   display: block;
 }
 
+#cover-photo-container {
+    height: 320px;
+    overflow: hidden;
+}
+
 #info-container {
   margin-top: 3em;
 }
@@ -136,6 +152,7 @@ a:hover {
   color: #494949;
   margin-bottom: 0.35em;
   font-size: 3.5em;
+  line-height: 1em;
   text-transform: uppercase;
 }
 
