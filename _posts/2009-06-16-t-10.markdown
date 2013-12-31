@@ -1,0 +1,16 @@
+---
+layout: post
+status: publish
+published: true
+title: t - 10
+author: admin
+author_login: admin
+author_email: info@hackerspaces.us
+wordpress_id: 3
+wordpress_url: http://www.buffalo.hackerspaces.us/?p=3
+date: 2009-06-16 18:28:04.000000000 -04:00
+categories:
+- Uncategorized
+tags: []
+---
+make it beautiful, so that a lone tear rolls down my face, and drops onto a live circuit, making sparks. sparks are fun. I'll fux with it as I find time...
