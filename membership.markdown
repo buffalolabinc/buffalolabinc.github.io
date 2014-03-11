@@ -12,7 +12,24 @@ As a Member you are given the following benefits:
 * Satisfaction of being apart of a local growing community!
 
 <div style="text-align: center;">
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post"><input type="hidden" name="cmd" value="_s-xclick" /> <input type="hidden" name="hosted_button_id" value="Y2ZCLZK9JNQDY" /> <input type="hidden" name="on0" /> <select name="os0"> <option value="Godly Lab User">Member : $50.00USD - monthly</option> <option value="Uber Lab User">Contributing Member : $40.00USD - monthly</option> <option value="Super Lab User">Contributing Member : $30.00USD - monthly</option> <option value="Lab User">Donation : $20.00USD - monthly</option> </select><input type="hidden" name="currency_code" value="USD" /><br><input type="image" name="submit" src="https://www.paypal.com/en_US/i/btn/btn_subscribeCC_LG.gif" alt="PayPal - The safer, easier way to pay online!" /> <img src="https://www.paypal.com/en_US/i/scr/pixel.gif" alt="" width="1" height="1" border="0" /></form>
+    <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+        <input type="hidden" name="cmd" value="_s-xclick" />
+        <input type="hidden" name="hosted_button_id" value="Y2ZCLZK9JNQDY" />
+        <input type="hidden" name="on0" />
+        <select name="os0">
+            <option value="Lab User - 50">Lab User - $50.00USD - monthly</option>
+            <option value="Lab User - 100">Lab User - $100.00USD - monthly</option>
+            <option value="Lab User - 200">Lab User - $200.00USD - monthly</option>
+            <option value="Supporting Member - 40">Supporting Member - $40.00USD - monthly</option>
+            <option value="Supporting Member - 30">Supporting Member - $30.00USD - monthly</option>
+            <option value="Supporting Member - 20">Supporting Member - $20.00USD - monthly</option>
+            <option value="Supporting Member - 10">Supporting Member - $10.00USD - monthly</option>
+        </select>
+        <input type="hidden" name="currency_code" value="USD" />
+        <br>
+        <input type="image" name="submit" src="https://www.paypal.com/en_US/i/btn/btn_subscribeCC_LG.gif" alt="PayPal - The safer, easier way to pay online!" />
+        <img src="https://www.paypal.com/en_US/i/scr/pixel.gif" alt="" width="1" height="1" border="0" />
+    </form>
 </div>
 
 ## Benefits
